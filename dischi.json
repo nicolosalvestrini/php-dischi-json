@@ -2,43 +2,50 @@
     {
         "title": "New Jersey",
         "artist": "Bon Jovi",
-        "cover": "https://upload.wikimedia.org/wikipedia/en/0/03/Bon_Jovi_New_Jersey.jpg",
+        "cover": "https:\/\/upload.wikimedia.org\/wikipedia\/en\/0\/03\/Bon_Jovi_New_Jersey.jpg",
         "year": 1988,
         "genre": "Hard Rock"
     },
     {
         "title": "Live at Wembley '86",
         "artist": "Queen",
-        "cover": "https://upload.wikimedia.org/wikipedia/en/2/2d/Queen_Live_at_Wembley_%2786.jpg",
+        "cover": "https:\/\/upload.wikimedia.org\/wikipedia\/en\/2\/2d\/Queen_Live_at_Wembley_%2786.jpg",
         "year": 1992,
         "genre": "Rock"
     },
     {
         "title": "Ten Summoner's Tales",
         "artist": "Sting",
-        "cover": "https://upload.wikimedia.org/wikipedia/en/8/88/Sting_-_Ten_Summoner%27s_Tales.jpg",
+        "cover": "https:\/\/upload.wikimedia.org\/wikipedia\/en\/8\/88\/Sting_-_Ten_Summoner%27s_Tales.jpg",
         "year": 1993,
         "genre": "Pop Rock"
     },
     {
         "title": "Steve Gadd Band",
         "artist": "Steve Gadd Band",
-        "cover": "https://upload.wikimedia.org/wikipedia/en/5/5d/Steve_Gadd_Band_album.jpg",
+        "cover": "https:\/\/upload.wikimedia.org\/wikipedia\/en\/5\/5d\/Steve_Gadd_Band_album.jpg",
         "year": 2018,
         "genre": "Jazz Fusion"
     },
     {
         "title": "Brave New World",
         "artist": "Iron Maiden",
-        "cover": "https://upload.wikimedia.org/wikipedia/en/7/75/Iron_Maiden_-_Brave_New_World.jpg",
+        "cover": "https:\/\/upload.wikimedia.org\/wikipedia\/en\/7\/75\/Iron_Maiden_-_Brave_New_World.jpg",
         "year": 2000,
         "genre": "Heavy Metal"
     },
     {
         "title": "One More Car, One More Rider",
         "artist": "Eric Clapton",
-        "cover": "https://upload.wikimedia.org/wikipedia/en/3/31/Eric_Clapton_-_One_More_Car%2C_One_More_Rider.jpg",
+        "cover": "https:\/\/upload.wikimedia.org\/wikipedia\/en\/3\/31\/Eric_Clapton_-_One_More_Car%2C_One_More_Rider.jpg",
         "year": 2002,
         "genre": "Blues Rock"
+    },
+    {
+        "title": "Default Title",
+        "artist": "Default Artist",
+        "cover": "https:\/\/via.placeholder.com\/300x300.png?text=Default+Cover",
+        "year": "5",
+        "genre": "Default Genre"
     }
 ]
